@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JRxFPkoVhfiEQokeBDBHbsw7YqFFyPo4yIQMvNxwsanvLcJhRm/NcHyPpibliFD8Q07+eHHokWQvqetbt0gzPg==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Iolando Rosmaninho\\Download\\Meteor\\Meteor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Iolanda Rosmaninho\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Iolanda Rosmaninho\\.nuget\\packages\\system.drawing.common\\8.0.5\\system.drawing.common.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
